@@ -14,6 +14,8 @@ A Passionate Explorer at the intersection of Technology and Intelligence.
 - Languages: Python, SQL
 - Frameworks: TensorFlow, PyTorch, Scikit-learn
 - Tools: Jupyter, Pandas, NumPy, Matplotlib, Seaborn
+- Databases: MySQL
+  
 
 - Keeping up with the latest research in AI and ML.
 - Experimenting with cutting-edge techniques in deep learning and NLP.
