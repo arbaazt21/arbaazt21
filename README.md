@@ -1,7 +1,7 @@
 # Hi there!👋I'm Arbaaz Tamboli
 A Passionate Explorer at the intersection of Technology and Intelligence.
 
-### Interests:
+### 🔍Interests:
 - ✔️ AI/ML and Cloud Enthusiast
 - 💻 Deep Learning, LLM's, Generative AI 
 - ML: Developing models that learn from data and improve over time.
