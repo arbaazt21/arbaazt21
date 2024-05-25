@@ -11,9 +11,9 @@ A Passionate Explorer at the intersection of Technology and Intelligence.
 
 
 ### 🛠️ Tech Stack:
-- Languages: Python, R, SQL
+- Languages: Python, SQL
 - Frameworks: TensorFlow, PyTorch, Scikit-learn
-- Tools: Jupyter, Pandas, NumPy, Matplotlib
+- Tools: Jupyter, Pandas, NumPy, Matplotlib, Seaborn
 
 - Keeping up with the latest research in AI and ML.
 - Experimenting with cutting-edge techniques in deep learning and NLP.
