@@ -1,4 +1,4 @@
-                                                                      # Hi there!👋I'm Arbaaz Tamboli
+# Hi there!👋I'm Arbaaz Tamboli
 A Passionate Explorer at the intersection of Technology and Intelligence.
 
 ### 🔍 Interests:
