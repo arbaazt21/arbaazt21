@@ -12,8 +12,8 @@ A Passionate Explorer at the intersection of Technology and Intelligence.
 
 ### 🛠️ Tech Stack:
 - Languages: Python, SQL
-- Frameworks: TensorFlow, PyTorch, Scikit-learn
-- Tools: Jupyter, Pandas, NumPy, Matplotlib, Seaborn
+- Frameworks: Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, PyTorch, Scikit-learn, Keras
+- Tools: Jupyter, VSCode, Render, Snowflake
 - Databases: MySQL
   
 
